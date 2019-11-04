@@ -29,4 +29,4 @@ sh obtenerItemsBySellerId.sh 183212103
 ~~~
 
 Como resultado, el script arrojará un archivo de log listando la información solicitada de cada item. Esto es por cada uno de los seller_id ingresados siempre y cuando estos existan y posean items. El nombre del archivo incluye el seller id y la fecha y hora de cuando se generó.
-[Archivo de ejemplo](https://github.com/rodrigoealonso/obtenerItemsBySellerId/blob/master/items_of_seller_id_183212103--2019-10-31_17:45:54.log)
+[Archivo de ejemplo](https://github.com/rodrigoealonso/obtenerItemsBySellerId/blob/master/items_of_seller_id_183212103--2019-11-04_16:51:14.log)
